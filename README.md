@@ -24,7 +24,7 @@
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg" alt="MongoDB" width="40" height="40"> </a>
   <a href="https://redis.io/" target="_blank"> <img src="https://plugins.jetbrains.com/files/12820/149292/icon/pluginIcon.svg" alt="Redis" width="50" height="40"> </a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://voicefoundry.com/wp-content/uploads/2018/09/feature-aws.jpg" alt="AWS" width="50" height="40"> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/800px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="50" height="40"> </a>
   <a href="https://www.terraform.io/" target="_blank"> <img src="https://coralogix.com/wp-content/uploads/2021/03/terraform@2x.png" alt="Terraform" width="50" height="40"> </a>
   <a href="https://www.packer.io/" target="_blank"> <img src="https://miro.medium.com/max/678/1*HF8zcJ-ynq5ldGlIFU4taw.png" alt="Packer" width="55" height="42"> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" alt="Docker" width="50" height="40"> </a>
