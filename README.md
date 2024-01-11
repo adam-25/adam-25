@@ -32,5 +32,3 @@
     <a href="https://about.gitlab.com/" target="_blank"> <img src="https://gitlab.com/uploads/-/system/group/avatar/6543/logo-extra-whitespace.png" alt="GitLab" width="50" height="40"> </a>
   <a href="https://www.travis-ci.com/" target="_blank"> <img src="https://www.benmather.info/post/2019-06-06-travis-ci/featured.png" alt="TravisCI" width="52" height="45"> </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-25&show_icons=true&locale=en" alt="adam-25" /></p>
